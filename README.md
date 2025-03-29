@@ -19,7 +19,7 @@ Insight: The pandemic did not affect all regions equally. Some countries had hig
 - Percent Population Infected Over Time (Line Chart - Bottom Right)
   * Tracks infection rates in different countries (e.g., U.S., U.K., Canada, Nigeria, India, etc.) from Dec 2019 to Oct 2021.
   * The U.S. and U.K. have the highest infection rates, while countries like Nigeria have lower reported cases. <br />
-  Insight:
+ Insight:
   * Countries with higher testing and reporting mechanisms show steeper trends.
   * Developing countries may have lower reported infections due to limited testing.
   * The growth trend suggests multiple waves of COVID-19. <br />
