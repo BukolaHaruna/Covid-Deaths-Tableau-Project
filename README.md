@@ -26,4 +26,4 @@ Insight: The pandemic did not affect all regions equally. Some countries had hig
    -  Developing countries may have lower reported infections due to limited testing. <br />
    - The growth trend suggests multiple waves of COVID-19. <br />
 
-These elements collectively offer a comprehensive view of the COVID-19 pandemic, enabling users to analyze trends, compare regional impacts, and assess the effectiveness of interventions.
+These elements collectively offer a comprehensive view of the COVID-19 pandemic, enabling users to analyse trends, compare regional impacts, and assess the effectiveness of interventions.
