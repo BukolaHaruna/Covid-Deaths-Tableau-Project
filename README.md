@@ -1,4 +1,4 @@
-# Covid-Deaths-Tableau-Project
+# Covid Deaths Tableau Project
 
 The COVID-19 Dashboard provides an interactive visualisation of COVID-19 data, presenting key metrics and trends related to the pandemic. <br />
 View interactive dashboard <a href="https://public.tableau.com/app/profile/bukola.haruna/viz/Covid-19Dashboard_17081223417930/Dashboard1?publish=yes">Here</a>
