@@ -21,8 +21,8 @@ Insight: The pandemic did not affect all regions equally. Some countries had hig
   * Tracks infection rates in different countries (e.g., U.S., U.K., Canada, Nigeria, India, etc.) from Dec 2019 to Oct 2021.
   * The U.S. and U.K. have the highest infection rates, while countries like Nigeria have lower reported cases. <br />
 Insight: <br />
-   -- Countries with higher testing and reporting mechanisms show steeper trends. <br />
-   -- Developing countries may have lower reported infections due to limited testing. <br />
-   -- The growth trend suggests multiple waves of COVID-19. <br />
+   - Countries with higher testing and reporting mechanisms show steeper trends. <br />
+   -  Developing countries may have lower reported infections due to limited testing. <br />
+   - The growth trend suggests multiple waves of COVID-19. <br />
 
 These elements collectively offer a comprehensive view of the COVID-19 pandemic, enabling users to analyze trends, compare regional impacts, and assess the effectiveness of interventions.
